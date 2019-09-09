@@ -1,1 +1,1 @@
-# bad-news-pwa
+Demo PWA app.
